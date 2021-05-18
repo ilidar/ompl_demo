@@ -26,7 +26,4 @@ RUN mkdir ompl && \
     chmod u+x install-ompl-ubuntu.sh
 
 RUN cd ompl && \
-    ./install-ompl-ubuntu.sh --python
-
-RUN cd ompl && \
     ./install-ompl-ubuntu.sh --app
