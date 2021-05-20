@@ -30,7 +30,7 @@ def main(args):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='OMPL demo')
+    parser = argparse.ArgumentParser(description='OMPL demo for Cartesian coordinate system')
     parser.add_argument('--start',
             nargs='+',
             type=float,
