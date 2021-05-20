@@ -108,4 +108,4 @@ Then:
 - Add genereted path `/ompl_demo/path.txt`;
 - Result:
 
-[image](images/ompl_app.png)
+![image](images/ompl_app.png)
