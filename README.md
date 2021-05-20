@@ -69,7 +69,7 @@ python3 /ompl_demo/src/ompl_demo_geodetic.py \
 
 ## Docker
 
-Steps to build and run `docker`:
+Steps to build and run `docker` image:
 
 - Build an image:
 ```bash
@@ -104,7 +104,7 @@ ompl_app
 Then:
 
 - Add environment from `/ompl/omplapp-1.5.2-Source/resources/3D/cubicles_env.dae`;
-- Add robot from `/ompl/omplapp-1.5.2-Source/resources/3D/cubicles_env.dae`;
+- Add robot from `/ompl/omplapp-1.5.2-Source/resources/3D/cubicles_robot.dae`;
 - Add genereted path `/ompl_demo/path.txt`;
 - Result:
 
